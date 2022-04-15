@@ -25,9 +25,9 @@ Schema Used: Project Open Data
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
-| references | https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ |
+| references | https://crime-data-explorer.app.cloud.gov/pages/downloads |
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
-| license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
+| license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
 # 2 Expanded Homicide Data Table 07
 
@@ -43,9 +43,9 @@ Schema Used: Project Open Data
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
-| references | https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ |
+| references | https://crime-data-explorer.app.cloud.gov/pages/downloads|
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
-| license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
+| license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE|
 
 # 3 Expanded Homicide Data Table 08
 
@@ -61,9 +61,9 @@ Schema Used: Project Open Data
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
-| references | https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ |
+| references | https://crime-data-explorer.app.cloud.gov/pages/downloads |
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
-| license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
+| license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
 # 4 Expanded Homicide Data Table 09
 
@@ -79,9 +79,9 @@ Schema Used: Project Open Data
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
-| references | https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ |
+| references | https://crime-data-explorer.app.cloud.gov/pages/downloads |
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
-| license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
+| license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
 # 5 Expanded Homicide Data Table 11
 
@@ -97,9 +97,9 @@ Schema Used: Project Open Data
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
-| references | https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ |
+| references | https://crime-data-explorer.app.cloud.gov/pages/downloads |
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
-| license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
+| license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
 # Security 
 These data are freely available to the public. 
