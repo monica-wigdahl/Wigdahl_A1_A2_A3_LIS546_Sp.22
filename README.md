@@ -2,7 +2,7 @@
 This is a Univeristy of Washington iSchool assignment in Spring 2022. 
 # ReadMe
 
-Five selected files regarding weapons use in homicide crimes. The intended user is law enforcement and community leaders for the use of crime prevention, weapons mitigation and policy decisions compiled into a dataset.
+Five selected files complied into a dataset regarding weapons use in homicide crimes. The intended user is law enforcement and community leaders for the use of crime prevention, weapons mitigation and policy decisions.
 
 
 # Metadata
