@@ -11,18 +11,17 @@ Aim for an initial Data Inventory of at least 5 datasets.
 
 Schema Used: Project Open Data
 
-# 1
+# 1 Offenses Involving Weapon Use
 
 | Attribute| Value |
 | -------- | ----- |
-| Creator |	?????|
-| Title | ?????|
+| Creator |	Federal Bureau of Investigation, Crime Data Explorer|
+| Title | Offenses Involving Weapon Use off Category by Type of Weapon Force Involved 2002|
 | Date | 4/15/2022|
 | Format | CSV |
-| Size | ????? |
+| Size | 13 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
 | accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
-| conformsTo | https://project-open-data.cio.gov/v1.1/schema |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -30,18 +29,17 @@ Schema Used: Project Open Data
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
 
-# 2
+# 2 Expanded Homicide Data Table 07
 
 | Attribute| Value |
 | -------- | ----- |
-| Creator |	?????|
-| Title | ?????|
+| Creator |	Federal Bureau of Investigation, Crime Data Explorer |
+| Title | Expanded Homicide Data Table 07 Murder Types of Weapons Used Percent Distribution by Region 2020|
 | Date | 4/15/2022|
 | Format | CSV |
-| Size | ????? |
+| Size | 11 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
 | accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
-| conformsTo | https://project-open-data.cio.gov/v1.1/schema |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -49,18 +47,17 @@ Schema Used: Project Open Data
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
 
-# 3
+# 3 Expanded Homicide Data Table 08
 
 | Attribute| Value |
 | -------- | ----- |
-| Creator |	?????|
-| Title | ?????|
+| Creator |	Federal Bureau of Investigation, Crime Data Explorer |
+| Title | Expanded Homicide Data Table 08 Murder Victims by Weapon 2016-2020|
 | Date | 4/15/2022|
 | Format | CSV |
-| Size | ????? |
+| Size | 12 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
 | accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
-| conformsTo | https://project-open-data.cio.gov/v1.1/schema |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -68,18 +65,17 @@ Schema Used: Project Open Data
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
 
-# 4
+# 4 Expanded Homicide Data Table 09
 
 | Attribute| Value |
 | -------- | ----- |
-| Creator |	?????|
-| Title | ?????|
+| Creator | Federal Bureau of Investigation, Crime Data Explorer|
+| Title | Expanded Homicide Data Table 09 Murder Victims by Age by Weapon 2020|
 | Date | 4/15/2022|
 | Format | CSV |
-| Size | ????? |
+| Size | 13 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
 | accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
-| conformsTo | https://project-open-data.cio.gov/v1.1/schema |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -87,18 +83,17 @@ Schema Used: Project Open Data
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/mn_homelessness/blob/main/LICENSE |
 
-# 5
+# 5 Expanded Homicide Data Table 11
 
 | Attribute| Value |
 | -------- | ----- |
-| Creator |	?????|
-| Title | ?????|
+| Creator |	Federal Bureau of Investigation, Crime Data Explorer |
+| Title | Expanded Homicide Data Table 11 Murder Circumstances by Weapon 2020|
 | Date | 4/15/2022|
 | Format | CSV |
-| Size | ????? |
+| Size | 13 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
 | accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
-| conformsTo | https://project-open-data.cio.gov/v1.1/schema |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
