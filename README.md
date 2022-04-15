@@ -2,14 +2,10 @@
 This is a Univeristy of Washington iSchool assignment in Spring 2022. 
 # ReadMe
 
-Select datasets that appear suitable for a data collection specialized for the purpose and community. 
-For each dataset, provide a link and basic metadata elements, such as, creator, title, date, format, size, etc. 
-Aim for an initial Data Inventory of at least 5 datasets.
+Five Selected files regarding weapons use in homicide crimes. The intended user is law enforcement and community leaders for the use of crime prevention, weapons mitigation and policy decisions compiled into a dataset.
 
 
 # Metadata
-
-Schema Used: Project Open Data
 
 # 1 Offenses Involving Weapon Use
 
@@ -21,7 +17,7 @@ Schema Used: Project Open Data
 | Format | CSV |
 | Size | 13 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
-| accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
+| accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -39,7 +35,7 @@ Schema Used: Project Open Data
 | Format | CSV |
 | Size | 11 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
-| accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
+| accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -57,7 +53,7 @@ Schema Used: Project Open Data
 | Format | CSV |
 | Size | 12 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
-| accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
+| accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -75,7 +71,7 @@ Schema Used: Project Open Data
 | Format | CSV |
 | Size | 13 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
-| accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
+| accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
@@ -93,7 +89,7 @@ Schema Used: Project Open Data
 | Format | CSV |
 | Size | 13 KB |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
-| accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
+| accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
 | publisher | Monica Wigdahl |
