@@ -7,16 +7,16 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 
 # Metadata
 
-# 1 Offenses Involving Weapon Use
+# 1. Offenses Involving Weapon Use
 
 | Attribute| Value |
 | -------- | ----- |
 | Creator |	Federal Bureau of Investigation, Crime Data Explorer|
-| Title | Offenses Involving Weapon Use off Category by Type of Weapon Force Involved 2002|
+| Title | Offenses Involving Weapon Use offense Category by Type of Weapon/Force Involved |
 | Date | 4/15/2022|
 | Format | CSV |
 | Size | 13 KB |
-| description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
+| description | This dataset contains information concerning crimes with a weapon/force involved. This dataset was created for a course at the iSchool at the University of Washington in the Spring of 2022.|
 | accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
@@ -25,7 +25,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
-# 2 Expanded Homicide Data Table 07
+# 2. Expanded Homicide Data Table 07
 
 | Attribute| Value |
 | -------- | ----- |
@@ -34,7 +34,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | Date | 4/15/2022|
 | Format | CSV |
 | Size | 11 KB |
-| description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
+| description | This dataset contains information concerning the number of murders four United States geographic regions (Northeast, Midwest, South, West). This dataset was created for a course at the iSchool at the University of Washington in the Spring of 2022.|
 | accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
@@ -43,7 +43,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE|
 
-# 3 Expanded Homicide Data Table 08
+# 3. Expanded Homicide Data Table 08
 
 | Attribute| Value |
 | -------- | ----- |
@@ -52,7 +52,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | Date | 4/15/2022|
 | Format | CSV |
 | Size | 12 KB |
-| description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
+| description | This dataset contains information concerning murders and the type of weapon used. This dataset was created for a course at the iSchool at the University of Washington in the Spring of 2022.|
 | accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
@@ -61,7 +61,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
-# 4 Expanded Homicide Data Table 09
+# 4. Expanded Homicide Data Table 09
 
 | Attribute| Value |
 | -------- | ----- |
@@ -70,7 +70,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | Date | 4/15/2022|
 | Format | CSV |
 | Size | 13 KB |
-| description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
+| description | This dataset contains information concerning the age of murder victims and the type of weapon used. This dataset was created for a course at the iSchool at the University of Washington in the Spring of 2022.|
 | accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
@@ -79,7 +79,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
-# 5 Expanded Homicide Data Table 11
+# 5. Expanded Homicide Data Table 11
 
 | Attribute| Value |
 | -------- | ----- |
@@ -88,7 +88,7 @@ Five selected files compiled into a dataset regarding weapons use in homicide cr
 | Date | 4/15/2022|
 | Format | CSV |
 | Size | 13 KB |
-| description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
+| description | This dataset contains information concerning the breakdown of crime circumstances and the type of weapon used. This dataset was created for a course at the iSchool at the University of Washington in the Spring of 2022.|
 | accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
 | language | en-us |
 | modified | 4/15/2022 |
