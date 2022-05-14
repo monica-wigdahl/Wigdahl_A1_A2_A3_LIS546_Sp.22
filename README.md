@@ -7,25 +7,8 @@ Five selected files compiled into a dataset regarding types of weapons use in di
 
 # Metadata
 
-# 1. Offenses Involving Weapon Use
 
-| Attribute| Value |
-| -------- | ----- |
-| Creator |	Federal Bureau of Investigation, Crime Data Explorer|
-| Title | Offenses Involving Weapon Use offense Category by Type of Weapon/Force Involved |
-| Date | 4/15/2022|
-| Format | CSV |
-| Size | 13 KB |
-| description | This dataset contains information concerning crimes with a weapon/force involved. This dataset was created for a course at the iSchool at the University of Washington in the Spring of 2022.|
-| accessURL | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/find/main |
-| language | en-us |
-| modified | 4/15/2022 |
-| publisher | Monica Wigdahl |
-| references | https://crime-data-explorer.app.cloud.gov/pages/downloads |
-| rights | These data are freely available to all people, both in this repository and their respective government repositories |
-| license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
-
-# 2. Expanded Homicide Data Table 07
+# 1. Expanded Homicide Data Table 07
 
 | Attribute| Value |
 | -------- | ----- |
@@ -43,7 +26,7 @@ Five selected files compiled into a dataset regarding types of weapons use in di
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE|
 
-# 3. Expanded Homicide Data Table 08
+# 2. Expanded Homicide Data Table 08
 
 | Attribute| Value |
 | -------- | ----- |
@@ -61,7 +44,7 @@ Five selected files compiled into a dataset regarding types of weapons use in di
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
-# 4. Expanded Homicide Data Table 09
+# 3. Expanded Homicide Data Table 09
 
 | Attribute| Value |
 | -------- | ----- |
@@ -79,7 +62,7 @@ Five selected files compiled into a dataset regarding types of weapons use in di
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | license | https://github.com/monica-wigdahl/Wigdahl_A1_LIS546_Sp.22/blob/main/LICENSE |
 
-# 5. Expanded Homicide Data Table 11
+# 4. Expanded Homicide Data Table 11
 
 | Attribute| Value |
 | -------- | ----- |
