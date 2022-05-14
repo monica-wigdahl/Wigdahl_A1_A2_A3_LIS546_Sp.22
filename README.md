@@ -1,4 +1,4 @@
-# Wigdahl_A2_LIS546_Sp.22
+# Wigdahl_A1_A2_LIS546_Sp.22
 This is a Univeristy of Washington iSchool assignment in Spring 2022. 
 # ReadMe
 
